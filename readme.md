@@ -19,3 +19,9 @@ Installation can be verified with:
 ```
 npx tsc --version
 ```
+
+Code can be run with:
+
+```
+npx tsc MyCode.ts
+```
